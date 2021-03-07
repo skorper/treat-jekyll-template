@@ -8,6 +8,10 @@ Treat was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jeky
 
 Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
+## `skorper` fork
+
+Reformats theme so it works as a `remote_theme`
+
 ## Features
 
 * Contact form
